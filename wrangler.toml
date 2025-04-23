@@ -1,0 +1,8 @@
+name = "gdrive-proxy"
+type = "javascript"
+
+account_id = "d9f0c7972ce718103968a191b9abf119"
+workers_dev = true
+compatibility_date = "2024-04-23"
+route = "ngefim21.my.id/gdrive*"
+zone_id = "547fd0749ed99b41addb21f818adb416"
